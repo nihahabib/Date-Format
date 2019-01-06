@@ -1,5 +1,5 @@
-print('Rushan Rafiq')
-print('18b-087-CS')
+print('Niha Habib')
+print('18b-032-CS')
 print('Program for checking dates with respect to given formats')
 date_format = str(
     input("Enter the date format dd-mm-yy or mm-dd-yy, for dd-mm-yy enter one and for the second one enter second : "))
